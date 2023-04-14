@@ -20,11 +20,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdos_haraf9) 
 
 
-[![](https://visitcount.itsvg.in/api?id=abdosharaf9&icon=5&color=1)](https://visitcount.itsvg.in)
+<!-- Profile views count -->
+<!-- [![](https://visitcount.itsvg.in/api?id=abdosharaf9&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
 ---
 
-## 🧰 Tools & Languages:
+## 🧰 Languages & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -42,8 +43,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
