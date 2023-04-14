@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
@@ -75,7 +75,7 @@
 </div>
 
 
-
+<!--
 ## 😂 Random Dev Meme
 <div align="center">
     <img src="https://rm.up.railway.app/" width="512px"/>
@@ -83,5 +83,5 @@
 
 
 
-<!-- ## 🐦 Latest Tweet
+## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
