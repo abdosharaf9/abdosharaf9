@@ -78,14 +78,19 @@
 
 <details open>
     <summary><h2>📊 GitHub Stats:</h2></summary>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-    </div>
+        <table border="0" align="center">
+            <tr border="0">
+                <td width="50%" align="center">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
+                    <br><br>
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdosharaf9&theme=tokyonight&hide_border=true"/>
+                </td>
+                <td width="50%" align="center">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdosharaf9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+                </td>
+            </tr>
+       </table>
 </details>
-
 
 <br>
 
