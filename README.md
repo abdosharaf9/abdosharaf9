@@ -55,6 +55,8 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width=40px alt="Firebase" title="Firebase"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width=40px alt="Jetpack Compose" title="Jetpack Compose"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" width=40px alt="VS Code" title="VS Code"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://img.icons8.com/color/512/adobe-xd--v1.png" width=40px alt="Adobe XD" title="Adobe XD"/>
