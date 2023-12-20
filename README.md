@@ -61,6 +61,8 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://img.icons8.com/color/512/adobe-xd--v1.png" width=40px alt="Adobe XD" title="Adobe XD"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width=40px alt="Adobe XD" title="Figma"/>
+        &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" width=40px alt="Notion" title="Notion"/>
         &#8287;&#8287;&#8287;&#8287;&#8287;
         <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" width=40px alt="Postman" title="Postman"/>
