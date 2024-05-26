@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Advanced topics in Android development.
 - 👯 I’m looking to collaborate on Android projects.
 - 💬 Ask me about Kotlin, Android Framework.
-- 📫 How to reach me bodyasharaf8@gmail.com.
+- 📫 How to reach me abdosharaf.dev@gmail.com.
 
 <br>
 
